@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 import random
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-API_TOKEN = '{Token}'  # Replace with your actual token
+API_TOKEN = '{7208123631:AAGUqNvuKGKfPlKtZQ-8adNQwgtuGUIHof0}'  # Replace with your actual token
 bot = telebot.TeleBot(API_TOKEN)
 
 # List of Admin IDs - Replace with actual admin chat IDs
